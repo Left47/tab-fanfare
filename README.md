@@ -25,3 +25,7 @@ All the settings are in `playFanfare()` and `bloom()` in [fanfare.js](fanfare.js
 - the `0.34` offset: the gap between "ta" and "DUM"
 - `pitch` on each hit, and `root` in `bloom()`: how deep it sounds
 - `length` in `bloom()`: how long the tail rings out
+
+## License
+
+[MIT](LICENSE)
